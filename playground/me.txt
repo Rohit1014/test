@@ -1,0 +1,3 @@
+Name: Rohit pandey
+Skills: HTML, CSS, JS, React.js
+Email: rohitpandeydesicrew@gmail.com
